@@ -1,14 +1,14 @@
-Status : INCOMPLETE - at least one check did not pass
+Status : COMPLETE - all checks passed
 Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
 
 CS 1430 Assignment 2: The Cost of College
 GitHub user : gzimp22
 Repository  : https://github.com/gzimp22/Assignment2
-Commit      : unknown
-Message     : 
-Author      : 
-Committed   : 
-Checked     : 2026-10-26 18:58:28 Central Daylight Time
+Commit      : f86e30ab9751d4184b7b5c2aca36eeb11f863652
+Message     : submission text
+Author      : Garrett Zimpel <zimpelg@uwplatt.edu>
+Committed   : 2026-10-26T19:00:20-05:00
+Checked     : 2026-10-26 19:00:34 Central Daylight Time
 Python      : 3.14.7
 
 ================================================================
@@ -39,9 +39,7 @@ CHECK RESULTS
 [PASS] You have committed your own work
 [PASS] Your latest changes are committed
 [PASS] Your repo is connected to GitHub
-[FAIL] Your commit is pushed to GitHub
-   > Committing saves your work on this computer. PUSH sends it to GitHub.
-   > Click Sync Changes in Source Control (or run git push), then run this file again.
+[PASS] Your commit is pushed to GitHub
 
 POINTS FROM check.py: 40 / 40
 
