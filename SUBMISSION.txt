@@ -2,13 +2,13 @@ Status : INCOMPLETE - at least one check did not pass
 Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
 
 CS 1430 Assignment 2: The Cost of College
-GitHub user : unknown
-Repository  : unknown
+GitHub user : gzimp22
+Repository  : https://github.com/gzimp22/Assignment2
 Commit      : unknown
 Message     : 
 Author      : 
 Committed   : 
-Checked     : 2026-10-26 18:53:04 Central Daylight Time
+Checked     : 2026-10-26 18:55:56 Central Daylight Time
 Python      : 3.14.7
 
 ================================================================
@@ -36,9 +36,12 @@ CHECK RESULTS
 --- Git and GitHub (required for your points to count) ---
 [PASS] Git is installed
 [PASS] This folder is a Git repository
-[FAIL] You have committed your own work
-   > So far there is only the template's first commit.
-   > In Source Control, type a message and click Commit.
+[PASS] You have committed your own work
+[PASS] Your latest changes are committed
+[PASS] Your repo is connected to GitHub
+[FAIL] Your commit is pushed to GitHub
+   > Committing saves your work on this computer. PUSH sends it to GitHub.
+   > Click Sync Changes in Source Control (or run git push), then run this file again.
 
 POINTS FROM check.py: 40 / 40
 
